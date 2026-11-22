@@ -1,110 +1,173 @@
-<!-- Paste into a public repo named exactly: AvulaDineshkumar (repo name = your username) -->
-
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=200&section=header&text=Avula%20Dinesh%20Kumar&fontSize=48&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Data%20Science%20%7C%20AI%20%2F%20ML%20%7C%20Reinforcement%20Learning&descAlignY=58&descSize=18" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=venom&color=0:0f2027,50:203a43,100:2c5364&height=260&section=header&text=Avula%20Dinesh%20Kumar&fontSize=52&fontColor=36BCF7&animation=twinkling&fontAlignY=38&desc=Data%20Science%20%2F%20AI-ML%20Software%20Developer%20%C2%B7%202025%20%E2%80%93%202027&descAlignY=60&descSize=18&descColor=cfd8dc" width="100%"/>
 
-<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=36BCF7&center=true&vCenter=true&width=600&lines=M.Tech+Data+Science+%40+Amrita+Bengaluru;Building+ML+%26+RL+experiments;Ex-QA+Engineer+turned+Data+Scientist;Open+to+AI%2FML+%26+Data+roles" alt="Typing SVG" /></a>
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=20&pause=1200&color=36BCF7&center=true&vCenter=true&width=720&height=40&lines=%3E+Training+models+%26+shipping+pipelines;%3E+Explainable+AI+%7C+Deep+Learning+%7C+Big+Data;%3E+M.Tech+Data+Science+%40+Amrita+Bengaluru;%3E+AWS+Certified+Cloud+Practitioner;%3E+Open+to+AI%2FML+%26+Data+roles+%F0%9F%9A%80" alt="Typing SVG" /></a>
 
-<br/>
+<br/><br/>
 
-![Profile Views](https://komarev.com/ghpvc/?username=AvulaDineshkumar&label=Profile%20Views&color=0e75b6&style=for-the-badge)
-![Followers](https://img.shields.io/github/followers/AvulaDineshkumar?style=for-the-badge&logo=github&color=24292e)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/dinesh-kumar-avula-62757a1a1)
+[![Email](https://img.shields.io/badge/Email-Say_Hello-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:dineshnani002@gmail.com)
+[![GitHub](https://img.shields.io/badge/GitHub-Follow-181717?style=for-the-badge&logo=github)](https://github.com/AvulaDineshkumar)
+![Views](https://komarev.com/ghpvc/?username=AvulaDineshkumar&label=Views&color=36BCF7&style=for-the-badge)
 
 </div>
 
----
+<br/>
 
-## 👨‍💻 About Me
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:203a43,100:2c5364&height=36&section=header&text=%F0%9F%91%A8%E2%80%8D%F0%9F%92%BB%20About%20Me&fontSize=18&fontColor=ffffff&fontAlign=8" width="100%"/>
+
+<table>
+<tr>
+<td width="55%" valign="top">
 
 ```python
 class Developer:
-    name      = "Avula Dinesh Kumar"
-    education = ["M.Tech Data Science, Amrita Vishwa Vidyapeetham (2025-)",
-                 "B.Tech CSE, Parul University (2019-2023)"]
-    past_role = "QA Software Tester, Decimal Point Analytics"
-    focus     = ["Machine Learning", "Reinforcement Learning", "Data Analysis"]
-    status    = "Open to AI/ML & Data roles 🚀"
+    name   = "Avula Dinesh Kumar"
+    role   = "Data Science / AI-ML Software Developer"
+    years  = "2025 - 2027"
+    study  = "M.Tech Data Science, Amrita"
+    past   = "QA & Test Automation Engineer"
+    focus  = ["ML", "Deep Learning",
+              "Explainable AI", "Big Data"]
+    open_to = "AI/ML · Data · SWE roles 🚀"
 ```
 
-- 🎓 Pursuing M.Tech in Data Science at Amrita Vishwa Vidyapeetham, Bengaluru
-- 🧪 Spent a year as a QA tester, so I care about code that is tested and reliable
-- 🤖 Exploring reinforcement learning, deep learning and applied ML
-- 📫 Looking for AI/ML and data opportunities
+</td>
+<td width="45%" valign="top">
 
----
+🎓 **M.Tech Data Science**, Amrita Vishwa Vidyapeetham, Bengaluru
 
-## 🛠️ Tech Stack
+🧪 Ex-QA engineer, so I build ML that is **tested and explainable**
+
+🤖 Predictive modelling, multimodal DL, real-time pipelines
+
+☁️ **AWS Certified Cloud Practitioner** (2026)
+
+</td>
+</tr>
+</table>
+
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:203a43,100:2c5364&height=36&section=header&text=%F0%9F%9B%A0%EF%B8%8F%20Tech%20Stack&fontSize=18&fontColor=ffffff&fontAlign=8" width="100%"/>
 
 <div align="center">
 
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
-![SQL](https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=postgresql&logoColor=white)
-![Jupyter](https://img.shields.io/badge/Jupyter-F37626?style=for-the-badge&logo=jupyter&logoColor=white)
+**Languages & Data Science**
 
-![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white)
-![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white)
-![scikit-learn](https://img.shields.io/badge/scikit--learn-F7931E?style=for-the-badge&logo=scikitlearn&logoColor=white)
-![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)
-![NumPy](https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white)
+<img src="https://skillicons.dev/icons?i=python,java,mysql,pandas,numpy,sklearn&perline=6" /><br/>
 
-![Spring Boot](https://img.shields.io/badge/Spring_Boot-6DB33F?style=for-the-badge&logo=springboot&logoColor=white)
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
-![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
+**Deep Learning & ML**
+
+<img src="https://skillicons.dev/icons?i=tensorflow,keras,jupyter,matplotlib&perline=4" />
+
+![XGBoost](https://img.shields.io/badge/XGBoost-337AB7?style=flat-square)
+![LightGBM](https://img.shields.io/badge/LightGBM-02A676?style=flat-square)
+![SHAP](https://img.shields.io/badge/SHAP-FF0051?style=flat-square)
+![LIME](https://img.shields.io/badge/LIME-8A2BE2?style=flat-square)
+![Grad-CAM](https://img.shields.io/badge/Grad--CAM-orange?style=flat-square)
+
+**Big Data, Cloud & DevOps**
+
+<img src="https://skillicons.dev/icons?i=spark,kafka,cassandra,aws,docker,git,grafana&perline=7" />
+
+**Testing & BI**
+
+<img src="https://skillicons.dev/icons?i=selenium,playwright,postman,vscode&perline=4" />
+
+![JMeter](https://img.shields.io/badge/JMeter-D22128?style=flat-square&logo=apachejmeter&logoColor=white)
+![Power BI](https://img.shields.io/badge/Power_BI-F2C811?style=flat-square&logo=powerbi&logoColor=black)
+![Tableau](https://img.shields.io/badge/Tableau-E97627?style=flat-square&logo=tableau&logoColor=white)
 
 </div>
 
----
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:203a43,100:2c5364&height=36&section=header&text=%F0%9F%9A%80%20Featured%20Projects&fontSize=18&fontColor=ffffff&fontAlign=8" width="100%"/>
 
-## 🚀 Featured Project
+<table>
+<tr>
+<td width="50%" valign="top">
+
+### 🏦 Banking Churn Prediction
+`Python` `Scikit-learn` `LightGBM`
+
+End-to-end ML pipeline on 10,000 customers. SMOTE for imbalance, cross-validation and tuning.
+
+**91% accuracy · 0.96 ROC-AUC**
+
+</td>
+<td width="50%" valign="top">
+
+### ⚡ Power Fault Classification
+`XGBoost` `Random Forest` `SHAP` `LIME`
+
+Classifies Sag, Swell, Transient, Harmonics and Normal from signal features, with model explanations.
+
+**97.33% accuracy**
+
+</td>
+</tr>
+<tr>
+<td width="50%" valign="top">
+
+### 🩺 Multimodal Breast Cancer Diagnosis
+`TensorFlow` `CNN` `Grad-CAM`
+
+Late fusion over histopathology, ultrasound and X-ray. DenseNet121 and MobileNetV3 with SE and CBAM attention.
+
+**0.8462 AUC · explainable heatmaps**
+
+</td>
+<td width="50%" valign="top">
+
+### 🏭 Real-Time Predictive Maintenance
+`Kafka` `Spark Streaming` `Cassandra` `Grafana`
+
+IoT sensor streams scored live, with MAPLE XAI and counterfactual reasoning.
+
+**~94-95% accuracy**
+
+</td>
+</tr>
+</table>
 
 <div align="center">
 
-[![Reinforcement Learning Lab](https://github-readme-stats.vercel.app/api/pin/?username=AvulaDineshkumar&repo=Reinforcement_Learning_Lab&theme=tokyonight&hide_border=true)](https://github.com/AvulaDineshkumar/Reinforcement_Learning_Lab)
+[![RL Lab](https://github-readme-stats.vercel.app/api/pin/?username=AvulaDineshkumar&repo=Reinforcement_Learning_Lab&theme=tokyonight&hide_border=true&border_radius=12)](https://github.com/AvulaDineshkumar/Reinforcement_Learning_Lab)
+[![RL Project](https://github-readme-stats.vercel.app/api/pin/?username=AvulaDineshkumar&repo=Reinforcement_Learning_Project&theme=tokyonight&hide_border=true&border_radius=12)](https://github.com/AvulaDineshkumar/Reinforcement_Learning_Project)
 
 </div>
 
-Reinforcement learning experiments, assignments and implementations from my M.Tech Data Science program.
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:203a43,100:2c5364&height=36&section=header&text=%F0%9F%92%BC%20Experience%20%26%20Certifications&fontSize=18&fontColor=ffffff&fontAlign=8" width="100%"/>
 
----
+**QA Software Tester** · Decimal Point Analytics · *Mar 2024 – Apr 2025*
 
-## 📊 GitHub Stats
+- Playwright automation for data extraction and workflow validation, cutting manual effort by about **30%**
+- Selenium and Playwright regression suites; FastAPI backend testing (schemas, status codes, error handling)
+- API and load testing with Postman and JMeter; mobile testing with Appium
 
 <div align="center">
 
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=AvulaDineshkumar&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" />
-<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=AvulaDineshkumar&layout=compact&theme=tokyonight&hide_border=true" />
+![AWS](https://img.shields.io/badge/AWS-Cloud_Practitioner-FF9900?style=for-the-badge&logo=amazonaws&logoColor=white)
+![Oracle](https://img.shields.io/badge/Oracle-Generative_AI_Professional-F80000?style=for-the-badge&logo=oracle&logoColor=white)
+![ISTQB](https://img.shields.io/badge/ISTQB-CTFL_v4.0-0A66C2?style=for-the-badge)
+![MATLAB](https://img.shields.io/badge/MATLAB-RL_·_DL_·_CV_Onramps-E16737?style=for-the-badge&logo=mathworks&logoColor=white)
+
+</div>
+
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:203a43,100:2c5364&height=36&section=header&text=%F0%9F%93%8A%20GitHub%20Activity&fontSize=18&fontColor=ffffff&fontAlign=8" width="100%"/>
+
+<div align="center">
+
+<img height="170" src="https://github-readme-stats.vercel.app/api?username=AvulaDineshkumar&show_icons=true&theme=tokyonight&hide_border=true&border_radius=12&count_private=true" />
+<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=AvulaDineshkumar&layout=compact&theme=tokyonight&hide_border=true&border_radius=12" />
+
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=AvulaDineshkumar&theme=tokyonight&hide_border=true&border_radius=12" />
 
 <br/>
 
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=AvulaDineshkumar&theme=tokyonight&hide_border=true" />
+<img src="https://raw.githubusercontent.com/AvulaDineshkumar/AvulaDineshkumar/output/github-contribution-grid-snake-dark.svg" alt="contribution snake" />
+
+<br/>
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f2027,50:203a43,100:2c5364&height=120&section=footer&text=Thanks%20for%20visiting!&fontSize=22&fontColor=36BCF7&animation=fadeIn&fontAlignY=65" width="100%"/>
 
 </div>
-
----
-
-## 🐍 Contribution Snake
-
-<div align="center">
-<img src="https://raw.githubusercontent.com/AvulaDineshkumar/AvulaDineshkumar/output/github-contribution-grid-snake-dark.svg" alt="snake" />
-</div>
-
-> The snake needs the workflow in `.github/workflows/snake.yml` (included alongside this file).
-
----
-
-## 🤝 Connect With Me
-
-<div align="center">
-
-[![GitHub](https://img.shields.io/badge/GitHub-AvulaDineshkumar-181717?style=for-the-badge&logo=github)](https://github.com/AvulaDineshkumar)
-<!-- Add your own links below once you have them:
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](YOUR_LINKEDIN_URL)
-[![Email](https://img.shields.io/badge/Email-Contact-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:YOUR_EMAIL)
--->
-
-</div>
-
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=100&section=footer" width="100%"/>
